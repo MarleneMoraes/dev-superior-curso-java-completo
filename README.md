@@ -13,8 +13,4 @@ O repositório é composto de cursos, nivelamentos e projetos realizados pela es
 - [ ] Álgebra Relacional e SQL
 - [ ] NoSQL e MongoDB
 
-### Projetos
-- [ ] Sistema Jogo de Xadrez
-- [ ] Interface Gráfica com JavaFX (Java 11)
-
 > Status do projeto: Em Andamento :pencil:
