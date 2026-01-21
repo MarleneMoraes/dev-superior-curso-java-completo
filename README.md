@@ -10,11 +10,8 @@ O repositório é composto de cursos, nivelamentos e projetos realizados pela es
 ### Nivelamentos
 - [x] Java EE - Mapeamento objeto-relacional com JPA/Hibernate (`nivelamento-jpa-hibernate`)
 - [x] Maven (`nivelamento-jpa-maven`)
-- [ ] Álgebra Relacional e SQL
-- [ ] NoSQL e MongoDB
 
 ### Projetos
 - [ ] Sistema Jogo de Xadrez
-- [ ] Interface Gráfica com JavaFX (Java 11)
 
 > Status do projeto: Em Andamento :pencil:
